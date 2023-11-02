@@ -1,6 +1,6 @@
 contadorP=0;
 contadorIP=0;
-    for(i=0;i<=101;i++){
+    for(i=0;i<=100;i++){
         if(i%3==0){
             console.log("Múltiplo de 2: " + i);
             contadorP+=1;
